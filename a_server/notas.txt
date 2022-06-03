@@ -1,0 +1,3 @@
+El cliente debe de tener la llave publica del servidor con DH
+
+Ok al cliente ya le llego la llave DH firmada con la EC privada

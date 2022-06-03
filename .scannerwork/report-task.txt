@@ -1,0 +1,6 @@
+projectKey=lemon_boyi
+serverUrl=http://localhost:9080
+serverVersion=9.4.0.54424
+dashboardUrl=http://localhost:9080/dashboard?id=lemon_boyi
+ceTaskId=AYEqHGGmuaQeCyDmEufO
+ceTaskUrl=http://localhost:9080/api/ce/task?id=AYEqHGGmuaQeCyDmEufO
